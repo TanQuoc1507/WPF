@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label>ĐẠI HỌC DUY TÂN-ĐÀ NẴNG</Label>
+        <Label>ĐẠI HỌC DUY TÂN-ĐÀ NẴNG123</Label>
         
     </Grid>
 </Window>
